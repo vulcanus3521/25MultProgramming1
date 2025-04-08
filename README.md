@@ -1,2 +1,2 @@
 # 25MultProgramming1
-2025-04-08 Programming
+강릉원주대 25멀티프로그래밍
